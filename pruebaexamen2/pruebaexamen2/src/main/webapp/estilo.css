@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body{
+	border: solid black;
+}
+div{
+	border: solid black;
+}
+h1{
+	text-align: center;
+}
+button{
+	height: 70px;
+	width: 200px;
+	border: solid black;
+	display: inline;
+}
+.bot1{
+	
+	margin-left: 100px;
+	background-color: orange;
+	
+}
+.bot2{
+	border: solid black;
+	float: inline-end;
+	background-color: orange;
+}
+.bot3{
+	float: inline-end;
+	border: solid black;
+}
+.bot4{
+	border: solid black;
+}
+.segundo{
+	height: 70px;
+}
+.tercero{
+	height: 200px;
+}
